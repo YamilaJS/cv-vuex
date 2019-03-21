@@ -13,20 +13,20 @@ export default new Router({
       component: () => import(/* webpackChunkName: "perfil" */ './views/perfilView.vue')
     },
     {
-      path: '/educación',
-      name: 'educación',
+      path: '/educacion',
+      name: 'educacion',
       // route level code-splitting
       // this generates a separate chunk (about.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "educación" */ './views/educaciónView.vue')
+      component: () => import(/* webpackChunkName: "educacion" */ './views/educacionView.vue')
     },
     {
-      path: '/formación',
-      name: 'formación',
+      path: '/formacion',
+      name: 'formacion',
       // route level code-splitting
       // this generates a separate chunk (about.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "formación" */ './views/formaciónView.vue')
+      component: () => import(/* webpackChunkName: "formación" */ './views/formacionView.vue')
     },
     {
       path: '/experiencia',
@@ -42,7 +42,7 @@ export default new Router({
       // route level code-splitting
       // this generates a separate chunk (about.[hash].js) for this route
       // which is lazy-loaded when the route is visited.
-      component: () => import(/* webpackChunkName: "datosView" */ './views/datosView.vue')
+      component: () => import(/* webpackChunkName: "datosPersonalesView" */ './views/datosPersonalesView.vue')
     }
   ]
 })

@@ -1,16 +1,17 @@
 <template>
     <div class="experienciaView">
-        <h1>Experiencia Laboral</h1>
+        <ExperienciaContainer/>
     </div>
 
 </template>
 <script>
-// @ is an alias to /src
+
+import ExperienciaContainer from '@/containers/ExperienciaContainer';
 
 export default {
   name: 'experienciaView',
   components: {
-    
+    ExperienciaContainer
   }
 }
 </script>

@@ -2,8 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">Perfil</router-link> |
-      <router-link to="/educación">Educación</router-link> |
-      <router-link to="/formación">Formación Profesional</router-link> |
+      <router-link to="/educacion">Educación</router-link> |
+      <router-link to="/formacion">Formación Profesional</router-link> |
       <router-link to="/experiencia">Experiencia Laboral</router-link> |
       <router-link to="/datos">Datos Personales</router-link> 
     </div>

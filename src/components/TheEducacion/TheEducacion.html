@@ -1,0 +1,11 @@
+<article class="the-educacion">
+  <section>
+    <ul>
+      <li v-for="(curso, index) in educacionLista" :key="'lieducacion'+index">
+        <h1 v-text="curso.institucion" />
+        <h2 v-text="curso.titulo" />
+        <h3 v-text="curso.periodo" />
+      </li>
+    </ul>
+  </section>
+</article>

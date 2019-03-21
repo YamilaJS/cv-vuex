@@ -1,0 +1,10 @@
+<article class="the-experiencia">
+  <section>
+    <ul>
+      <li v-for="(experiencia, index) in experienciaLista" :key= "'liexperiencia' + index">
+        <h1 v-text="experiencia.titulo"/>
+        <h2 v-text="experiencia.periodo"/>
+      </li>
+    </ul>
+  </section>
+</article>

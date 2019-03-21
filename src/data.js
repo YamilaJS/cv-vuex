@@ -18,29 +18,29 @@ export default {
           { tag: 'Estado civil', value: 'Soltera' },
           { tag: 'Cuil', value: '27-34761623-6' }
         ],
-        educación: [
+        educacion: [
           {
-            institución: 'Universidad de Buenos Aires',
-            título: 'Licenciatura en Psicología',
+            institucion: 'Universidad de Buenos Aires',
+            titulo: 'Licenciatura en Psicología',
             periodo: '2009-2016'
           },
           {
-            institución: 'E.M.M N°6 de Merlo',
-            título: 'Bachiller en Humanidades y Ciencias Sociales',
+            institucion: 'E.M.M N°6 de Merlo',
+            titulo: 'Bachiller en Humanidades y Ciencias Sociales',
             periodo: '2003-2006'
           }
         ],
         experiencia: [
           {
-            título: 'Diseñadora y desarrolladora web FreeLancer, Baiorel (www.baiorel.com)',
+            titulo: 'Diseñadora y desarrolladora web FreeLancer, Baiorel (www.baiorel.com)',
             periodo: '2015-2016'
           },
           {
-            título: 'Diseñadora Gráfica FreeLancer',
+            titulo: 'Diseñadora Gráfica FreeLancer',
             periodo: '2012-2013'
           },
           {
-            título: 'Atención y venta al cliente, Cibercafe "Interword"',
+            titulo: 'Atención y venta al cliente, Cibercafe "Interword"',
             periodo: '2009-2012',
           },
         ],
@@ -83,82 +83,82 @@ export default {
         formacionProfesional: {
           psicología: [
             {
-              institución: 'Hospital María Curie',
+              institucion: 'Hospital María Curie',
               curso: 'Introducción a la Neuropsicología y sus áreas de aplicación',
               periodo: '2017'
             },
             {
-              institución: 'Capacitarte UBA',
+              institucion: 'Capacitarte UBA',
               curso: 'Selección y Reclutamiento de Personal',
               periodo: '2017'
             },
             {
-              institución: 'ConexionHR',
+              institucion: 'ConexionHR',
               curso: 'Selección de Personal para perfiles en IT',
               periodo: '2016'
             },
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             },
     
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             },
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             },
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             },
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             }
           ],
           diseñoYDesarrolloWeb: [
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             },
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             },
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             },
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             },
           ],
           offimatica: [
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             },
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             },
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             }
@@ -166,17 +166,17 @@ export default {
           ],
           contabilidadComercial: [
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             },
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             },
             {
-              institución: '',
+              institucion: '',
               curso: '',
               periodo: ''
             }

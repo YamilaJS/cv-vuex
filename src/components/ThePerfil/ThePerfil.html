@@ -1,0 +1,14 @@
+<article class="the-perfil">
+
+  <section>
+    <h1 v-text="perfil.h1" />
+    <h2 v-text="perfil.h2" />
+  </section>
+
+  <section>
+    <ul>
+      <li v-for="(item,index) in perfil.extracto" :key="index">■ {{item}}</li>
+    </ul>
+  </section>
+
+</article>

@@ -1,0 +1,11 @@
+<article class="the-datos-personales">
+  <section>
+    <ul>
+      <li v-for="(dato,index) in DatosPersonalesLista" :key="'lidatosPersonales'+index">
+        <h1 v-text="dato.tag"/>
+        <h2 v-text="dato.value"/>
+      </li>
+    </ul>
+  </section>
+</article>
+
